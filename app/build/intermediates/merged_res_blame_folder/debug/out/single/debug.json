@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_btn_border.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/btn_border.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_more.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/more.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_comment.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/comment.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_dialog_completed_theme.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/dialog_completed_theme.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_activity_alarm.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/activity_alarm.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_ic_add_black_24dp.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_activity_main_events.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/activity_main_events.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_textview_bg.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/textview_bg.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_login_page.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/login_page.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_btn_background.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/btn_background.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_completed.gif.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/completed.gif"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_logo.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_message.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/message.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_calendar.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/calendar.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_alert.gif.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/alert.gif"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_events.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/events.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_share.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/share.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_fragment_create_task.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/fragment_create_task.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_home.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/home.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_first_note.gif.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/first_note.gif"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_upload.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/upload.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_activitymain1.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/activitymain1.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_search.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/search.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_ca.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/ca.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_heart.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/heart.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_save.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/save.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_fragment_calendar_view.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/fragment_calendar_view.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_layout_main.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/layout_main.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_login_background.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/login_background.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_item_task.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/item_task.xml"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_user.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/user.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_no_task.gif.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/no_task.gif"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_dot.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/dot.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_report.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/report.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_correct.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/correct.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/drawable_like.png.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/drawable/like.png"
+    },
+    {
+        "merged": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-merged_res-29:/layout_event_layout.xml.flat",
+        "source": "/Users/shanjaygovindaraj/.gradle/daemon/7.5/com.example.kintsugi.app-main-31:/layout/event_layout.xml"
+    }
+]
